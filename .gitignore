@@ -1,0 +1,11 @@
+# Compiled binaries
+hello
+
+# Object files
+*.o
+*.obj
+
+# Other build artifacts
+*.exe
+*.out
+*.app
